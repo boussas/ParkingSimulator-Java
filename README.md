@@ -7,7 +7,7 @@
 * Customizable Parking Spot Display: Uses CustomRectangle class to represent parking spots with customizable colors and labels.
 * Synchronization Strategies: Implements different synchronization strategies (Semaphore and Mutex) through the IStrategy interface and DefaultStrategy class.
 * Interactive GUI: JavaFX-based GUI that prompts the user for the number of cars and parking spots, and displays the parking status in a grid layout.
-* Logging: Logs parking attempts and waiting times to a file for analysis.
+* Logging: Logs parking attempts and waiting times to a file.
 * Simulation and Animation: Simulates car parking using pauses and animations.
 * Thread Management: Program oriented to thread management, where a critical section (parking) is managed using Mutex for synchronization.
 
