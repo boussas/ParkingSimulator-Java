@@ -126,3 +126,5 @@ The choice between Semaphore and Mutex in the parking simulator depends on your 
   * Use Mutex if you prefer a simpler, deterministic approach with exclusive access to the parking process, even at the cost of limited concurrency.
 
 Each approach has its own set of trade-offs, and the best choice will depend on the desired balance between concurrency, simplicity, and resource management.
+
+Classes Path: src/main/java/com/example/ParkingSimulator
