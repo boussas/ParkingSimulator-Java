@@ -35,7 +35,7 @@ You can directly use your IDE or:
 Clone the repository:
 ```
 git clone https://github.com/boussas/ParkingSimulator-Java.git
-cd parking-simulator
+cd ParkingSimulator-Java
 ```
 Build and run the project using Make: 
 ```
